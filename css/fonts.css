@@ -1,0 +1,9 @@
+
+
+/* @font-face*/
+
+@font-face {
+    font-family: 'Comic Neue';
+    src: url('../fonts/Comic_Neue/ComicNeue-Regular.ttf');
+    /* changes made as in url() added to call the font */
+}
